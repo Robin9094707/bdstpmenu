@@ -1,10 +1,10 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Teleport Menu BP",
-    "description": "Öffnet ein Teleport-Menü per Stock ohne Ressourcenpaket.",
+    "name": "Teleport & Wegpunkte BP",
+    "description": "Stock-Menü für Teleport-Anfragen und persönliche Wegpunkte ohne Ressourcenpaket.",
     "uuid": "0ac87ebd-2e65-4e15-b9e1-8f275bd96e87",
-    "version": [1, 0, 0],
+    "version": [1, 1, 0],
     "min_engine_version": [1, 20, 40]
   },
   "modules": [
@@ -13,7 +13,7 @@
       "language": "javascript",
       "entry": "scripts/main.js",
       "uuid": "cb1e4be0-aa42-46e1-8471-f7d8221066c9",
-      "version": [1, 0, 0]
+      "version": [1, 1, 0]
     }
   ],
   "dependencies": [
